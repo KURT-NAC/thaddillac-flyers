@@ -1,7 +1,7 @@
 # thaddillac-flyers
 project for marketing assets (flyer, web designs, etc)
 
-Three chances, three neighborhoods, same band.
+"Three chances, three neighborhoods, same band."
 
 # Seamonster
 - 10/22
